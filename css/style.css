@@ -1,0 +1,28 @@
+body {
+  background-image: url("../images/backgrounds/02.jpg");
+}
+
+h1 {
+  color: #9e9e9e;
+}
+
+#autocomplete-input {
+  color: white;
+}
+
+.show-info {
+  margin-top: 50px;
+}
+
+.dropdown-content {
+  position: absolute;
+  width: 300px;
+}
+
+.actionable-content {
+  margin-top: 50px;
+}
+
+.tabs {
+  overflow-x: hidden;
+}
